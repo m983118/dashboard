@@ -3,7 +3,7 @@ This is a project.
 I need to use grid to layout a webpage.
 
 in html, using
-<link rel="stylesheet" href="style.css">
+(link rel="stylesheet" href="style.css")
 to link the css
 
 step1
